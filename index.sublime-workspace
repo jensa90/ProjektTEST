@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bind",
+				"bindParam"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"ti",
+				"timezone"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"Table",
+				"tableImages"
+			],
+			[
+				"get",
+				"getElementById"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"blade"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jeha/Downloads/html5-dark-167398243/index.html",
+		"/C/Users/jeha/Downloads/html5-dark-167398243/css/style.css",
+		"/C/Users/jeha/Downloads/html5-dark-167398243/contact.html",
+		"/C/Users/jeha/Downloads/html5-dark-167398243/ourwork.html",
+		"/C/Users/jeha/Downloads/html5-dark-167398243/projects.html",
+		"/C/Users/jeha/Downloads/html5-dark-167398243/testimonials.html",
+		"/C/xampp/htdocs/multivis/WS01/demo/BaseHTML.html",
+		"/C/xampp/test/VCS-TEST/coda.html",
+		"/C/xampp/htdocs/multivis/WS01/demo/e.html",
+		"/C/xampp/htdocs/multivis/WS01/demo/example.html",
+		"/C/xampp/htdocs/multivis/WS01/demo/sublime.html",
+		"/C/xampp/htdocs/multivis/WS01/demo/test.html",
+		"/D/workshop3/WS3-U1.php",
+		"/C/xampp/htdocs/dynweb14/WS/WS3/fish",
+		"/C/_utbildning/Multimedia och visuell kommunikation/Workshops/WS02/filer/css/WS2U3-1.css",
+		"/C/Users/jeha/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/jeha/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Multimedia 1/WS1U2.html",
+		"/C/xampp/htdocs/th/shirts4mike2/bortkopplad.htaccess",
+		"/C/xampp/htdocs/th/shirts4mike2/.htaccess",
+		"/C/xampp/htdocs/th/shirts4mike/inc/products.php",
+		"/C/xampp/htdocs/th/shirts4mike/shirt.php",
+		"/C/xampp/htdocs/th/shirts4mike/shirts.php",
+		"/C/xampp/htdocs/th/shirts4mike/inc/config.php",
+		"/C/xampp/htdocs/th/shirts4mike/inc/database.php",
+		"/C/xampp/htdocs/th/shirts4mike/contact.php",
+		"/C/xampp/htdocs/crud/public/timezone.php",
+		"/C/xampp/htdocs/crud/public/tid.php",
+		"/C/xampp/htdocs/th/shirts4mike/inc/header.php",
+		"/C/xampp/htdocs/th/webdesign - responsive/index.html",
+		"/C/xampp/htdocs/th/webdesign - responsive/contact.html",
+		"/C/xampp/htdocs/th/webdesign - responsive/about.html",
+		"/C/xampp/htdocs/th/webdesign - responsive/css/main.css",
+		"/C/xampp/htdocs/th/webdesign - responsive/css/responsive.css",
+		"/C/xampp/htdocs/th/webdesign/css/main.css",
+		"/C/xampp/htdocs/th/webdesign/contact.html",
+		"/C/xampp/htdocs/th/webdesign/about.html",
+		"/C/xampp/htdocs/th/webdesign/index.html",
+		"/C/xampp/htdocs/ch6/app/config/app.php",
+		"/C/xampp/htdocs/ch6/composer.json",
+		"/C/xampp/htdocs/ec/app/models/User.php",
+		"/C/xampp/htdocs/ch6/app/routes.php",
+		"/C/xampp/htdocs/ch6/app/views/home.blade.php",
+		"/C/xampp/htdocs/ch6/app/controllers/FoldagramController.php",
+		"/C/xampp/htdocs/ch6/workbench/acme/cart/src/Acme/Cart/Cart.php",
+		"/C/xampp/htdocs/ch6/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ch6/app/database/migrations/2014_08_11_121042_create_subscribe_table.php",
+		"/C/xampp/htdocs/ch6/app/database/migrations/2014_01_08_192827_create_foldagram_reff_address.php",
+		"/C/xampp/htdocs/ch6/app/database/migrations/2014_01_08_015444_create_foldagram_table.php",
+		"/C/xampp/htdocs/ch5/app/database/migrations/2014_01_08_014853_create_subscribe_table.php",
+		"/C/xampp/htdocs/ch5/app/routes.php",
+		"/C/xampp/htdocs/ch5/app/controllers/FoldagramController.php",
+		"/C/xampp/htdocs/ch5/app/models/Foldagram.php",
+		"/C/xampp/htdocs/ch6/app/config/local/app.php",
+		"/C/xampp/htdocs/ch5/server.php",
+		"/C/xampp/htdocs/ch5/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/ch4/app/config/database.php",
+		"/C/xampp/htdocs/ch5/app/models/User.php",
+		"/C/xampp/htdocs/ch4/app/routes.php",
+		"/C/xampp/htdocs/ch4/app/config/mail.php",
+		"/C/xampp/htdocs/ch4/app/config/local/database.php",
+		"/C/xampp/htdocs/ch5/app/config/app.php",
+		"/C/xampp/htdocs/ch5/vendor/autoload.php",
+		"/C/xampp/htdocs/ch5/app/config/compile.php",
+		"/C/xampp/htdocs/ch5/app/config/workbench.php",
+		"/C/xampp/htdocs/ch4/app/views/Foldagram.blade.php",
+		"/C/xampp/htdocs/ch6/app/start/artisan.php",
+		"/C/xampp/htdocs/ch5/app/config/database.php",
+		"/C/xampp/htdocs/ch5/readme.txt",
+		"/C/xampp/htdocs/ch5/bootstrap/autoload.php",
+		"/C/xampp/htdocs/ch5/bootstrap/start.php",
+		"/C/xampp/htdocs/ch5/public/index.php",
+		"/C/xampp/htdocs/foldagram/bootstrap/autoload.php",
+		"/C/xampp/htdocs/foldagram/app/config/database.php",
+		"/C/xampp/htdocs/foldagram/app/routes.php",
+		"/C/xampp/htdocs/foldagram/app/config/app.php",
+		"/C/xampp/htdocs/foldagram/app/config/local/database.php",
+		"/C/xampp/htdocs/foldagram/app/models/User.php",
+		"/C/xampp/htdocs/foldagram/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/foldagram/bootstrap/paths.php",
+		"/C/xampp/htdocs/foldagram/app/views/hello.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_01_08_192827_create_foldagram_reff_address.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_01_08_015444_create_foldagram_table.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_01_08_014853_create_subscribe_table.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_01_08_013840_create_users_table.php",
+		"/C/xampp/htdocs/foldagram/bootstrap/start.php",
+		"/C/xampp/htdocs/foldagram/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/foldagram/app/views/about.blade.php",
+		"/C/xampp/htdocs/foldagram/app/views/Foldagram.blade.php",
+		"/C/xampp/htdocs/foldagram/workbench/acme/cart/src/Acme/Cart/Cart.php",
+		"/C/xampp/htdocs/foldagram/workbench/acme/cart/src/Acme/Cart/CartServiceProvider.php",
+		"/C/xampp/htdocs/foldagram/public/js/global.js",
+		"/C/xampp/htdocs/foldagram/app/views/layouts/default.blade.php",
+		"/C/xampp/htdocs/foldagram/workbench/acme/cart/Cart.php",
+		"/C/xampp/htdocs/foldagram/workbench/acme/cart/src/Acme/Cart/Facades/Cart.php",
+		"/C/xampp/htdocs/foldagram/app/start/global.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_08_06_084609_create_user_table.php",
+		"/C/xampp/htdocs/foldagram/app/config/mail.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_08_06_121215_create_users_table.php",
+		"/C/xampp/htdocs/foldagram/app/database/migrations/2014_08_06_121056_create_users_table.php",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/_utbildning/interaktiva prototyper/ws4/ex3/Accordion jQuery UI.htm",
+		"/C/xampp/htdocs/jquery/Island03-stage01-video-04-smellslikebakin/smellslikebakin/jquery.fitvids.js",
+		"/C/xampp/htdocs/stud/veronica_eja/uploadProducts.php",
+		"/C/xampp/htdocs/stud/veronica_eja/productProcess.php",
+		"/C/xampp/htdocs/stud/veronica_eja/HTMLTemplate.php",
+		"/C/xampp/htdocs/stud/veronica_eja/imageUploader.php",
+		"/C/xampp/htdocs/stud/veronica_eja/UPLOAD_DIRöversiktsbild_db_2013-09-19.PNG",
+		"/C/xampp/htdocs/stud/veronica_eja/newdb.php",
+		"/C/xampp/htdocs/stud/veronica_eja/HTMLtemplate.php",
+		"/C/xampp/htdocs/sp/results.php",
+		"/C/xampp/htdocs/sp/index.php",
+		"/C/xampp/htdocs/stud/veronica_eja/koder/uploadProducts.php",
+		"/C/xampp/htdocs/stud/veronica_eja/koder/productProcess.php",
+		"/C/xampp/htdocs/stud/veronica_eja/koder/imageUploader.php",
+		"/C/xampp/htdocs/sp/insert.php",
+		"/C/xampp/htdocs/sp/newdb.php",
+		"/C/xampp/htdocs/sp/db.php",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/htdocs/ajax/db.php",
+		"/C/xampp/htdocs/ajax/userInfo.php",
+		"/C/xampp/htdocs/ajax/js/my_script.js",
+		"/C/xampp/htdocs/ajax/index.html",
+		"/C/xampp/htdocs/ajax/store.php",
+		"/C/xampp/htdocs/ajax/store.js",
+		"/C/xampp/htdocs/ajax/firebase.html",
+		"/C/xampp/htdocs/ajax/supermarket.htm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
